@@ -18,6 +18,7 @@ public class TestNgProgram {
 	 
 	  {
 		  System.out.println("hi");
+		  System.out.println("Hello");
 	  }
   }
 
